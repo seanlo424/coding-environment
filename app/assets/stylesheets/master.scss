@@ -1,6 +1,8 @@
 /*
 @import "bootstrap";
 
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+
 .clear {
 	clear: both;
 }
@@ -46,6 +48,16 @@
 
 	hr {
 	  clear:both;
+	}
+
+	h1 {
+	  font-family: 'Josefin Sans', sans-serif;
+	  
+	}
+
+	h2 {
+	  font-family: 'Josefin Sans', sans-serif;
+	  
 	}
 
 
