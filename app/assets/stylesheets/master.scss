@@ -44,6 +44,7 @@
 	font-weight: bold;
 	}
 
+
 	header {
 	  border-top: 9px solid #222222;
 	}
@@ -62,4 +63,23 @@
 	h2 {
 	  font-family: 'kaushan_scriptregular', sans-serif;
 	  
+	}
+
+	.next-quote {
+	  color: #f84342;
+	  font-family: 'kaushan_scriptregular', sans-serif;
+	  font-size: 20px;
+	}
+
+	.slogan {
+	font-family: "Palintino Linotype", Palintino, Palladio, "URW Palladio L", "Book Antiqua", Bakersville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook","Century Schoolbook L", Georgia, serif;
+	font-style: italic;
+	padding-top: 26px;
+	}
+
+	.footer-blurb {
+	font-family: "Palintino Linotype", Palintino, Palladio, "URW Palladio L", "Book Antiqua", Bakersville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook","Century Schoolbook L", Georgia, serif;
+	font-style: italic;
+	text-align: right;
+	font-size: 10px;
 	}
