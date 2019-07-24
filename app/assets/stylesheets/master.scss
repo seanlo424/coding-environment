@@ -1,7 +1,7 @@
 
 @import "bootstrap";
 
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+
 
 .clear {
 	clear: both;
@@ -24,7 +24,7 @@
     cursor: pointer;
     transform:rotate(11deg);
     -ms-transform:rotate(11deg); /* IE 9 */
-    -webkit-transform:rotate(11deg){/* Opera, Chrome, and Safari */
+    -webkit-transform:rotate(11deg); /* Opera, Chrome, and Safari */
 }
 .slogan {
 	font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Bakersville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
@@ -40,6 +40,8 @@
 	color: black;
 	font-size: 25px;
 	border-bottom: 1px solid #dfdfdf;
+	font-family: 'kaushan_script-regular', sans-serif;
+	font-weight: bold;
 	}
 
 	header {
@@ -51,17 +53,13 @@
 	}
 
 	h1 {
-	  font-family: 'Josefin Sans', sans-serif;
+	  font-family: 'kaushan_scriptregular', sans-serif;
+	  font-weight: bold;
+	  font-size: 48px;
 	  
 	}
 
 	h2 {
-	  font-family: 'Josefin Sans', sans-serif;
+	  font-family: 'kaushan_scriptregular', sans-serif;
 	  
 	}
-
-
-
-
-
- 
